@@ -127,7 +127,7 @@ Build > Learn > Improve > Ship
 ## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BollareddyPranoyRaj/BollareddyPranoyRaj/main/output/snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/BollareddyPranoyRaj/BollareddyPranoyRaj/output/snake.svg" alt="snake animation" />
 </p>
 
 > To enable the snake animation, add a GitHub Action that generates `output/snake.svg` in your profile repository.
