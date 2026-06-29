@@ -1,4 +1,4 @@
-# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=22C55E&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Pranoy+Raj;Full+Stack+Developer;React+Native+•+MERN+•+AWS;Building+Scalable+Applications" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Pranoy+Raj;Full+Stack+Developer;React+Native+%E2%80%A2+MERN+%E2%80%A2+AWS;Building+Scalable+Applications" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=BollareddyPranoyRaj&style=for-the-badge&color=22c55e" />
