@@ -23,15 +23,18 @@
 ## 🌐 Connect
 
 <p align="left">
-<a href="https://www.linkedin.com/in/pranoy-raj-bollareddy">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-<a href="mailto:bollareddypranoyraj@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-<a href="https://github.com/BollareddyPranoyRaj">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
+  <a href="https://www.linkedin.com/in/pranoy-raj-bollareddy">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:bollareddypranoyraj@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://github.com/BollareddyPranoyRaj">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="https://www.instagram.com/bprzoomin_/?hl=en">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
 </p>
 
 ---
