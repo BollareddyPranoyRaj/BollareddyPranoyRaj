@@ -20,30 +20,30 @@
 
 ---
 
+## ⭐ Featured Project
+
+### [Django HTMX Issue Tracker](https://github.com/BollareddyPranoyRaj/django-htmx-issue-tracker)
+
+A progressively enhanced Kanban issue tracker built with **Django 5.0**, **PostgreSQL 15**, **HTMX**, **Tailwind CSS**, and **Docker Compose**. It demonstrates server-rendered CRUD workflows, issue comments, and SPA-like interactions without a heavy frontend framework.
+
+**Stack:** Django · PostgreSQL · HTMX · Tailwind CSS · Docker · Gunicorn
+
+---
+
 ## 🌐 Connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/pranoy-raj-bollareddy">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="mailto:bollareddypranoyraj@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-  <a href="https://github.com/BollareddyPranoyRaj">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-  <a href="https://www.instagram.com/bprzoomin_/?hl=en">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
+  <a href="https://www.linkedin.com/in/pranoy-raj-bollareddy"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:bollareddypranoyraj@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://github.com/BollareddyPranoyRaj"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://www.instagram.com/bprzoomin_/?hl=en"><img src="https://skillicons.dev/icons?i=instagram" /></a>
 </p>
 
 ---
 
 ## ⚒️ Tech Stack
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,js,ts,python,react,nodejs,express,mongodb,mysql,docker,aws,git,github,linux,vscode" />
-</p>
+<p><img src="https://skillicons.dev/icons?i=java,js,ts,python,react,nodejs,express,mongodb,postgres,mysql,docker,aws,git,github,linux,vscode" /></p>
 
 ---
 
@@ -68,12 +68,8 @@
 
 ## 🐍 Contribution Graph
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-</p>
+<p align="center"><img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" /></p>
 
 ---
 
-<p align="center">
-  <i>Building. Learning. Improving.</i>
-</p>
+<p align="center"><i>Building. Learning. Improving.</i></p>
